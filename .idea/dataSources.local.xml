@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - sport_equipment@localhost" uuid="d6ff10b7-b088-4098-b9e0-27ae5aa43f07">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>sport_equipment.*</schema-pattern>
+      <default-schemas>sport_equipment.*</default-schemas>
+    </data-source>
+  </component>
+</project>
