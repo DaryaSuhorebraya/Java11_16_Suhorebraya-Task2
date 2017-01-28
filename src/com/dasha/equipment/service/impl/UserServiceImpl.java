@@ -88,7 +88,7 @@ public class UserServiceImpl implements UserService {
             dateFrom=format.parse(dateFromStr);
             dateTo=format.parse(dateToStr);
         } catch (ParseException e) {
-            e.printStackTrace();
+            e.printStackTrace();// заныкала исключение)))
         }
         if (canRentUnit(idUser)) {
             RentUnit rentUnit = new RentUnit();
